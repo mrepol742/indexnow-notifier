@@ -1,0 +1,20 @@
+{
+  "name": "indexnow-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Melvin Jones Repol",
+    "email": "mrepol742@gmail.com",
+    "url": "https://mrepol742.github.io"
+  },
+  "type": "module",
+  "bin": {
+    "indexnow": "./src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrepol742/indexnow-notifier.git"
+  }
+}
